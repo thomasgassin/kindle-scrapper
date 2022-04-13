@@ -106,3 +106,6 @@ JavaScript warning: https://www.amazon.com/b?node=154606011 line 86163 > injecte
 [Parent 14360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 [Parent 14360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
 [Parent 14360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649735783657	geckodriver	INFO	Listening on 127.0.0.1:59383
+1649737347911	geckodriver	INFO	Listening on 127.0.0.1:38033
+1649797074657	geckodriver	INFO	Listening on 127.0.0.1:45823
