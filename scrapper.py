@@ -7,4 +7,4 @@ DRIVER_PATH_chromedriver = str(Path('chromedriver').resolve())
 
 browser = webdriver.Chrome(executable_path= DRIVER_PATH_chromedriver)
 
-browser.get('http://selenium.dev/')
+browser.get(url_kindle_accueil)
