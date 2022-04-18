@@ -1,6 +1,10 @@
 from selenium import webdriver
+from pathlib import Path
+
 url_kindle_accueil = "https://www.amazon.com/b?node=154606011"
 
-browser = webdriver.Chrome()
+DRIVER_PATH_chromedriver = str(Path('chromedriver').resolve())
 
-browser.get(url_kindle_accueil)
+browser = webdriver.Chrome(executable_path= DRIVER_PATH_chromedriver)
+
+browser.get('http://selenium.dev/')
